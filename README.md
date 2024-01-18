@@ -1,2 +1,2 @@
 # PowerBI
-Practicas de PBI
+Practica de PBI con diferentes casos
